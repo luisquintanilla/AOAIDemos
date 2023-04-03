@@ -11,7 +11,7 @@ AOAI Samples
 
 ## Models
 
-**Mod1** - text-davinci-003
+**Mod1** - text-davinci-003  
 **Mod2** - gpt-35-turbo
 
 ## Demos
